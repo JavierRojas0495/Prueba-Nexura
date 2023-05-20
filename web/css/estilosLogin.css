@@ -1,0 +1,17 @@
+
+.login-background {
+    background-image: linear-gradient(180deg, #2778c4 10%, #3a3b45 100%) !important;
+}
+
+.card-login {
+    
+    background-image: linear-gradient(180deg, #2778c4c2 10%, #3e57687d 100%) !important
+}
+
+.card-img:hover {
+    -webkit-transform: rotateY(180deg);
+    -webkit-transform-style: preserve-3d;
+    transform: rotateY(180deg);
+    transform-style: preserve-3d;
+}
+

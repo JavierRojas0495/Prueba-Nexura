@@ -1,0 +1,38 @@
+.bg-dark {
+    background-image: linear-gradient(180deg, #2778c4 10%, #3a3b45 100%) !important;
+}
+
+a {
+    color: #f8f9fc;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover {
+
+    color: #000000;
+}
+
+a :active {
+
+    color: black;
+}
+
+.nav-link.active {
+    color: #030000 !important;
+    background-color: #f8f8f8 !important;
+}
+
+nav {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+#navbarFixed-top{
+
+    left: 224px;
+
+}
